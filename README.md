@@ -18,7 +18,7 @@ I am a software developer specialized in **backend and architecture**. I focus o
 
 ## 💻 Technical Toolbox
 
-- **Backend:** Expert-level focus on **C#** and the **.NET 10 / ASP.NET** ecosystem.
+- **Backend:** Expert-level focus on **C#** and the **.NET / ASP.NET** ecosystem.
 - **Infrastructure:** Containerization with **Docker** and native development in **Linux** environments.
 - **Focus:** Systems architecture, performance optimization, and backend logic.
 
@@ -39,5 +39,5 @@ Beyond the terminal, I enjoy exploring the intersection of technology and art:
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-guerrero-lagunes-a7a136322/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-gl-srtotopo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srtotopo)
