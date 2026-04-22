@@ -14,7 +14,7 @@ I am a software developer specialized in **backend and architecture**. I focus o
 
 ## 🛠️ Current Project
 
-- 📜 **[ligen](https://github.com/srtotopo/ligen)** - A specialized license generation tool designed to automate and streamline software licensing workflows.
+- 📜 **[ligen](https://github.com/mrtotopo/ligen)** - A specialized license generation tool designed to automate and streamline software licensing workflows.
 
 ## 💻 Technical Toolbox
 
@@ -24,7 +24,7 @@ I am a software developer specialized in **backend and architecture**. I focus o
 
 ## 📈 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/srtotopo)
+![GitHub Contribution Graph](https://ghchart.rshah.org/mrtotopo)
 
 ## 🎨 Creative Interests
 
@@ -39,5 +39,5 @@ Beyond the terminal, I enjoy exploring the intersection of technology and art:
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-gl-srtotopo/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srtotopo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-gl-mrtotopo/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrtotopo)
